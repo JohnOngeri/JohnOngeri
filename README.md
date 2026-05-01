@@ -2,9 +2,9 @@
 
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 
-# Hi, I'm John Ongeri Ouma 👋
+# Hi, I'm John Ongeri Ouma and The best code I ever wrote was the code I deleted
 
-### Full-Stack Engineer obsessed with ML. I bridge the gap between complex models and intuitive user experiences across mobile and web. I don’t just write code; I ship solutions.
+### Software Engineer obsessed with Machine Learning. I bridge the gap between complex models and intuitive user experiences across mobile and web. I don’t just write code; I ship solutions.
 
 **I ship ML-powered products  from Flutter apps to NLP pipelines.**
 **I break things fast, fix them faster, and obsess over clean systems.**
@@ -25,9 +25,9 @@
 
 ```python
 john = {
-    "role"       : "Full-Stack Engineer + ML Practitioner",
-    "education"  : "African Leadership University (ALU)",
-    "location"   : "Nairobi, Kenya 🇰🇪",
+    "role"       : "Software Engineer + ML Practitioner",
+    "education"  : "African Leadership University (ALU), First Class Honors, Top 1% of class",
+    "location"   : "Nairobi, Kenya 🇰🇪,  Kigali, Rwanda",
     "stack"      : ["Python", "Dart/Flutter", "JavaScript", "TypeScript", "SQL"],
     "ml_toolkit" : ["TensorFlow", "scikit-learn", "BiLSTM", "Word2Vec", "TF-IDF"],
     "currently"  : "Building things that matter at the intersection of mobile + ML",
@@ -187,25 +187,6 @@ john = {
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JohnOngeri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="John's GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnOngeri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnOngeri&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
 ---
 
 <!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
@@ -225,7 +206,6 @@ john = {
 
 </div>
 
-> **Note:** To activate the contribution snake, add a GitHub Action in your profile repo that generates the SVG. See [Platane/snk](https://github.com/Platane/snk) for the 5-minute setup.
 
 ---
 
@@ -249,17 +229,10 @@ I'm always open to interesting problems, collaborations, and roles at places tha
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-JohnOngeri-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnOngeri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnongeri)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnongeri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/john-ouma-b72365281)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnongeriouma@gmail.com)
 
 <br/>
 
 > *"The best code I ever wrote was the code I deleted."*
 
-</div>
-
----
-
-<div align="center">
-  <sub>Built with 🔥 and too much coffee · Last updated May 2026</sub>
-</div>
