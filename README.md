@@ -39,7 +39,7 @@ john = {
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <table>
   <tr>
@@ -98,7 +98,7 @@ john = {
 
 <!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
@@ -191,7 +191,7 @@ john = {
 
 <!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -211,18 +211,18 @@ john = {
 
 <!-- ═══════════════════ WHAT I'M WORKING ON ═══════════════════ -->
 
-## 🔭 What I'm Currently Grinding
+##  What I'm Currently Grinding
 
-- 🏗 Deepening backend architecture — REST APIs, clean data pipelines, production-grade ML serving
-- 📱 Pushing Flutter further — state management, offline-first apps, platform channels
-- 🤖 Obsessing over NLP — when to reach for a transformer vs. when logistic regression just works
-- 🌍 Building things that actually matter for the African tech ecosystem
+-  Deepening backend architecture — REST APIs, clean data pipelines, production-grade ML serving
+-  Pushing Flutter further — state management, offline-first apps, platform channels
+-  Obsessing over NLP — when to reach for a transformer vs. when logistic regression just works
+-  Building things that actually matter for the African tech ecosystem
 
 ---
 
 <!-- ═══════════════════ LET'S TALK ═══════════════════ -->
 
-## 📬 Let's Talk
+## Let's Talk
 
 I'm always open to interesting problems, collaborations, and roles at places that ship fast and care about craft.
 
